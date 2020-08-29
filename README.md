@@ -21,7 +21,7 @@ Checkout the source and run
 
 Or
 
-    pip install scrapyx-scraperapi-proxy
+    pip install scrapyx-scraperapi-v2
     
 
 settings.py
